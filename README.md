@@ -5,7 +5,7 @@
 <h1 align="left">Hey, I'am your friendly neighbourhood coder</h1>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
@@ -74,6 +74,9 @@
 ###
   ## Paypal
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshrajsingh99310@gmail.com) 
+
+![snake gif](https://raw.githubusercontent.com/Aksh-00001/Aksh-00001/output/github-contribution-grid-snake.gif)
+
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
