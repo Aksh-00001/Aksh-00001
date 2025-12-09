@@ -4,6 +4,11 @@
 
 <h1 align="left">Hey, I'am your friendly neighbourhood coder</h1>
 
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
 ###
 
 <p align="left">My name is Aksh and I want to be a Hero.</p>
