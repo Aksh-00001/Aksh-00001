@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Aksh and I want to be a Hero.</p>
+<p align="left">My name is Aksh </p>
 
 ###
 
